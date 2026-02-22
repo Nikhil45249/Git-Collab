@@ -12,4 +12,8 @@ console.log(a+b)
 function multipl(a,b){
     return a*b
 }   
-    
+
+var a=20
+var b=60
+var c=a/b
+console.log(c)
