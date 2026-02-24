@@ -17,3 +17,8 @@ var a=20
 var b=60
 var c=a/b
 console.log(c)
+
+
+function print(){
+    console.log("Hello")
+}
