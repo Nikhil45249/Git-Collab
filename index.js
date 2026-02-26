@@ -22,3 +22,6 @@ console.log(c)
 function print(){
     console.log("Hello")
 }
+function printhello(){
+    console.log("hiii")
+}
